@@ -1,0 +1,65 @@
+body
+{
+    margin:0px;
+    padding-top: 800px;
+    
+}
+
+.profile
+{
+    width:175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#welcome
+{
+    position:absolute;
+    overflow:hidden;
+    height:800px;
+    color:floralwhite;
+    left:0;
+    right:o;
+    top:0;
+    bottom:0;
+    opacity:0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+display: table;
+height:100%;
+    width:100%;
+}
+
+.parallax-inner
+{
+    display:table-cell;
+    position:relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+#career
+{
+    padding:50px;
+        text-align: center;
+    font-size: 42px;
+}
+
+h3
+{
+    font-size: 32px;
+}
+.Line
+{
+    height:6px;
+    background-color: darkmagenta;
+    width:300px;
+    margin:8px auto;
+    
+}
+
+
+
+
+
+
+
