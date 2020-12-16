@@ -56,6 +56,27 @@ h3
     margin:8px auto;
     
 }
+.menu
+{
+    list-style:none;
+    position: fixed;
+    width:100%;
+font-family: 'Nova Cut', cursive;
+    margin-top:0px;
+    font-size:20.9999999px;
+        top:0px;
+    
+    z-index: 10;
+}
+
+.links
+{
+    display:inline;
+        padding-top:4.98989898px;
+    padding-left:8.999999999px;
+    padding-right: 8.999999999px;
+    padding-bottom: 4.98989898px;
+}
 
 
 
